@@ -1,0 +1,61 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.neu.coe.csye7200.asstwc.WebCrawlerSpec, org.scalatest.tools.Framework$$anon$1@628bf05a, false, [SuiteSelector])[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(edu.neu.coe.csye7200.asstwc.MonadOpsSpec, org.scalatest.tools.Framework$$anon$1@628bf05a, false, [SuiteSelector])[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mMonadOpsSpec:[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mLiftFuture[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mAsFuture[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mSequenceForgivingWithLogging[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mSequenceWithLogging[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mSequenceForgiving[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mLiftTry[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mZip[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mzip(Option,Option)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should succeed[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mzip(Try,Try)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should succeed[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mzip(Future,Future)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should succeed[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mOptionToTry[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mSequence[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work3[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work4[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work5[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mmapFuture[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mLiftOption[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mMap2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mFlatten[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work1[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work3[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mWebCrawlerSpec:[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mgetURLContent[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mwget(URL)[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not succeed for http://www1.coe.neu.edu/junk[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mwget(Seq[URL])[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html, http://www.google.com/[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mfilterAndFlatten[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mcrawler(Seq[URL])[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32m- should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html, depth 2[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 6 seconds, 743 milliseconds.[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 28[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 28, failed 0, canceled 0, ignored 0, pending 0[0m[0m[0J
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu.neu.coe.csye7200.asstwc.MonadOpsSpec[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	edu.neu.coe.csye7200.asstwc.WebCrawlerSpec[0m[0J
