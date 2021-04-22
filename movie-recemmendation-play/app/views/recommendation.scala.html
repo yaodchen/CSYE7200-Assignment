@@ -1,0 +1,19 @@
+@import helper._
+@(form: Form[BasicForm])(implicit messages: Messages)
+@main("Recommendation") {
+
+<h1 class="word" align="center">Movie You Like</h1>
+<img class="div" align="center" src="@routes.Assets.versioned("images/movie.jpg")" alt="imagination">
+
+<div class="div1">
+    <div style="position:absolute">
+        <h3>key feature:</h3>
+        @helper.form(routes.HomeController.analysisPost) {
+        @inputText(form("name"))
+        <input type="submit" value="Submit">
+        }
+    </div>
+
+
+</div>
+}

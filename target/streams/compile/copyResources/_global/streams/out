@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jchen/Desktop/scala_project/src/main/resources/links.csv,/Users/jchen/Desktop/scala_project/target/scala-2.12/classes/links.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jchen/Desktop/scala_project/src/main/resources/tags.csv,/Users/jchen/Desktop/scala_project/target/scala-2.12/classes/tags.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jchen/Desktop/scala_project/src/main/resources/ratings.csv,/Users/jchen/Desktop/scala_project/target/scala-2.12/classes/ratings.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jchen/Desktop/scala_project/src/main/resources/movies.csv,/Users/jchen/Desktop/scala_project/target/scala-2.12/classes/movies.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/jchen/Desktop/scala_project/src/main/resources/log4j.properties,/Users/jchen/Desktop/scala_project/target/scala-2.12/classes/log4j.properties)[0m
