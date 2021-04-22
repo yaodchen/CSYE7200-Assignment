@@ -1,6 +1,7 @@
 # CSYE7200-Assignment
 
 User input
+
 In this case, we assume the input will be one user id that already exists in the database. 
 
 System
